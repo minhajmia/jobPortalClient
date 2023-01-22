@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Web Developer",
+    "location": "India",
+    "type": "Full Time"
+  },
+  {
+    "role": "Front end Developer",
+    "location": "United States",
+    "type": "Part-time"
+  },
+  {
+    "role": "React Developer",
+    "location": "Australia",
+    "type": "Internship"
+  },
+  {
+    "role": "Full Stack Developer",
+    "location": "Canada",
+    "type": "Freelance"
+  },
+  {
+    "role": "Full Stack Developer",
+    "location": "India",
+    "type": "Apprenticeship"
+  }
+]
